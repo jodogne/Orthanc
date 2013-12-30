@@ -1,5 +1,5 @@
-Orthanc Download Page
-=====================
+Orthanc Downloads
+=================
 
 Orthanc is a lightweight DICOM server for medical imaging.
 
