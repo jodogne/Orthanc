@@ -3,8 +3,9 @@ Orthanc Downloads
 
 Orthanc is a lightweight DICOM server for medical imaging.
 
-The only purpose of this GitHub repository is to ship the official [Orthanc releases](https://github.com/jodogne/Orthanc/releases). The official releases are not stored on Google Code anymore because of a change to [Google Code Download Services](http://google-opensource.blogspot.be/2013/05/a-change-to-google-code-download-service.html).
+The only purpose of this GitHub repository is to ship the releases of Orthanc.
 
+Please go to the [official homepage of Orthanc](http://www.orthanc-server.com/).
 
 
 Direct links to official releases
