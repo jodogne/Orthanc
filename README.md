@@ -13,6 +13,7 @@ Direct links to official releases
 
 | Version | Source |
 | ------- | ------ |
+| 0.7.3 | [Download](https://github.com/jodogne/Orthanc/releases/download/0.7.3/Orthanc-0.7.3.tar.gz) |
 | 0.7.2 | [Download](https://github.com/jodogne/Orthanc/releases/download/0.7.2/Orthanc-0.7.2.tar.gz) |
 | 0.7.1 | [Download](https://github.com/jodogne/Orthanc/releases/download/0.7.1/Orthanc-0.7.1.tar.gz) |
 | 0.7.0 | [Download](https://github.com/jodogne/Orthanc/releases/download/0.7.0/Orthanc-0.7.0.tar.gz) |
