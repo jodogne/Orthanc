@@ -1,7 +1,7 @@
 Orthanc Downloads
 =================
 
-Orthanc is a lightweight DICOM server for medical imaging. You can find more information about [Orthanc at its official homepage](http://www.orthanc-server.com/download.php).
+[Orthanc] (http://www.orthanc-server.com/download.php) is a lightweight DICOM server for medical imaging.
 
 The only purpose of this GitHub repository is to ship the releases of Orthanc for Linux packages.
 
